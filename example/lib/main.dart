@@ -8,7 +8,7 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   TabbySDK().setup(
-    withApiKey: 'YOUR_API_KEY', // Put here your Api key
+    withApiKey: 'api key here ', // Put here your Api key
     // environment: Environment.production, // Or use Environment.stage
   );
   runApp(const MyApp());
