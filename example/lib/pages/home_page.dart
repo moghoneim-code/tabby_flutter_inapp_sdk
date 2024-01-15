@@ -40,7 +40,7 @@ class _HomePageState extends State<HomePage> {
       _setStatus('pending');
 
       final s = await TabbySDK().createSession(TabbyCheckoutPayload(
-        merchantCode: 'sa',
+        merchantCode: 'ae',
         lang: lang,
         payment: mockPayload,
       ));

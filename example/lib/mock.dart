@@ -2,7 +2,7 @@ import 'package:tabby_flutter_inapp_sdk/tabby_flutter_inapp_sdk.dart';
 
 final mockPayload = Payment(
   amount: '340',
-  currency: Currency.sar,
+  currency: Currency.aed,
   buyer: Buyer(
     email: 'id.card.success@tabby.ai',
     phone: '500000001',
@@ -26,14 +26,14 @@ final mockPayload = Payment(
       quantity: 1,
       unitPrice: '10.00',
       referenceId: 'uuid',
-      productUrl: 'http://mabet.com.sa',
+      productUrl: 'http://example.com',
       category: 'clothes',
     )
   ]),
   orderHistory: [
     OrderHistoryItem(
       purchasedAt: '2019-08-24T14:15:22Z',
-      amount: '30.00',
+      amount: '10.00',
       paymentMethod: OrderHistoryItemPaymentMethod.card,
       status: OrderHistoryItemStatus.newOne,
     )
