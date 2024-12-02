@@ -1,0 +1,701 @@
+{
+  "MainWarehouseCountingId": "ec50466e-3779-478e-a4ca-207848caa2d8",
+  "Operations": [
+    {
+      "Bin": "R02-031",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-033",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-008",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-011",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-016",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-003",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-024",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-035",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-023",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-009",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-032",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-031",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-026",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-017",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-030",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-020",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-023",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-014",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-017",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-022",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-007",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "W01-002",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-015",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-016",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "W01-008",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-028",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-009",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "A01-01",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-028",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-025",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-009",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-028",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-034",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-014",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-029",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-001",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-005",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-021",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-026",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "W01-005",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-005",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-022",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-006",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-026",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-002",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-013",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-030",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "A001-111",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-022",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "W01-007",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-025",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-032",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-002",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-025",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-027",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-029",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-019",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-010",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-033",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "A001-002",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "W01-003",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-006",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-035",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-004",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-006",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-010",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-012",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-012",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-035",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-016",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-021",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-004",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-012",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-018",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-001",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-011",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-027",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-033",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-020",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "W01-004",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-015",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-003",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-034",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-034",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-018",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-007",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-008",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-027",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-015",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-001",
+      "StorageType": "A01",
+      "Materials": [
+        {
+          "MaterialNumber": "000000000000100001",
+          "BatchNumber": "M1305",
+          "GTIN": "06285096000842",
+          "Count": 4,
+          "IsNewBatch": false,
+          "ExpiryDate": "30/06/2025",
+          "UOM": "KAR",
+          "UomRatio": "12.000000",
+          "MaterialName": " Panadol Extra"
+        },
+        {
+          "MaterialNumber": "000000000000100001",
+          "BatchNumber": "M1305",
+          "GTIN": "06285096000842",
+          "Count": 5,
+          "IsNewBatch": false,
+          "ExpiryDate": "30/06/2025",
+          "UOM": "STR",
+          "UomRatio": "0.330000",
+          "MaterialName": " Panadol Extra"
+        },
+        {
+          "MaterialNumber": "000000000000100001",
+          "BatchNumber": "M1305",
+          "GTIN": "06285096000842",
+          "Count": 5,
+          "IsNewBatch": false,
+          "ExpiryDate": "30/06/2025",
+          "UOM": "EA",
+          "UomRatio": "1.000000",
+          "MaterialName": " Panadol Extra"
+        },
+        {
+          "MaterialNumber": "000000000000100001",
+          "BatchNumber": "M1304",
+          "GTIN": "06285096000842",
+          "Count": 3,
+          "IsNewBatch": true,
+          "ExpiryDate": "30/06/2025",
+          "UOM": "KAR",
+          "UomRatio": "12.000000",
+          "MaterialName": " Panadol Extra"
+        },
+        {
+          "MaterialNumber": "000000000000100001",
+          "BatchNumber": "M1304",
+          "GTIN": "06285096000842",
+          "Count": 3,
+          "IsNewBatch": true,
+          "ExpiryDate": "30/06/2025",
+          "UOM": "STR",
+          "UomRatio": "0.330000",
+          "MaterialName": " Panadol Extra"
+        },
+        {
+          "MaterialNumber": "000000000000100001",
+          "BatchNumber": "M1304",
+          "GTIN": "06285096000842",
+          "Count": 7,
+          "IsNewBatch": true,
+          "ExpiryDate": "30/06/2025",
+          "UOM": "EA",
+          "UomRatio": "1.000000",
+          "MaterialName": " Panadol Extra"
+        },
+        {
+          "MaterialNumber": "000000000000101830",
+          "BatchNumber": "M1304",
+          "GTIN": "06285088000706",
+          "Count": 8,
+          "IsNewBatch": true,
+          "ExpiryDate": "30/08/2025",
+          "UOM": "EA",
+          "UomRatio": "1.000000",
+          "MaterialName": "Lantus-Solostar 100Iu/Ml 3Ml 5Pens."
+        },
+        {
+          "MaterialNumber": "000000000000101830",
+          "BatchNumber": "23DD89",
+          "GTIN": "06285088000706",
+          "Count": 12,
+          "IsNewBatch": true,
+          "ExpiryDate": "30/09/2025",
+          "UOM": "EA",
+          "UomRatio": "1.000000",
+          "MaterialName": "Lantus-Solostar 100Iu/Ml 3Ml 5Pens."
+        },
+        {
+          "MaterialNumber": "000000000000100776",
+          "BatchNumber": "211221",
+          "GTIN": "6285108000013",
+          "Count": 7,
+          "IsNewBatch": false,
+          "ExpiryDate": "31/12/9999",
+          "UOM": "EA",
+          "UomRatio": "1.000000",
+          "MaterialName": "Coversyl 10Mg 30Tabs."
+        },
+        {
+          "MaterialNumber": "000000000000100776",
+          "BatchNumber": "23ctr",
+          "GTIN": "6285108000013",
+          "Count": 5,
+          "IsNewBatch": true,
+          "ExpiryDate": "05/08/2027",
+          "UOM": "EA",
+          "UomRatio": "1.000000",
+          "MaterialName": "Coversyl 10Mg 30Tabs."
+        }
+      ]
+    },
+    {
+      "Bin": "R01-002",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-014",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-019",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-018",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-008",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "W01-006",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-017",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-005",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-024",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-010",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-030",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-029",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-032",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-004",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-013",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-024",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-003",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-031",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "A001-001",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-019",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R01-011",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-013",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-021",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-007",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R03-020",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "W01-001",
+      "StorageType": "A01",
+      "Materials": []
+    },
+    {
+      "Bin": "R02-023",
+      "StorageType": "A01",
+      "Materials": []
+    }
+  ]
+}
